@@ -1,0 +1,110 @@
+{
+  "seed": 970030,
+  "events": 1092,
+  "rows": [
+    {
+      "ref": "t0",
+      "completion": 0.535,
+      "arm": "common",
+      "mode": "pre"
+    },
+    {
+      "ref": "t1",
+      "completion": 0.535,
+      "arm": "G1",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.535,
+      "arm": "G1",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t2",
+      "completion": 0.5679166666666666,
+      "arm": "G2",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.535,
+      "arm": "G2",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t3",
+      "completion": 0.61125,
+      "arm": "S3",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.535,
+      "arm": "S3",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t4",
+      "completion": 0.62375,
+      "arm": "R",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.535,
+      "arm": "R",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t5",
+      "completion": 0.62375,
+      "arm": "ALT",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.535,
+      "arm": "ALT",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t6",
+      "completion": 0.535,
+      "arm": "G1",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t7",
+      "completion": 0.535,
+      "arm": "G2",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t8",
+      "completion": 0.535,
+      "arm": "S3",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t9",
+      "completion": 0.535,
+      "arm": "R",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t10",
+      "completion": 0.535,
+      "arm": "ALT",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t11",
+      "completion": 0.61125,
+      "arm": "S3",
+      "mode": "reset_command"
+    }
+  ],
+  "raw_sha256": "bed8f400352d12fb4d99ae7fa77004a6c43031d66b174b0da42246a2f09ff14c",
+  "snapshot_sha256": "9b7cd358c4338219ec91c55f4d3f6cebe6195806883d4fa3089c8e4b873658ab"
+}

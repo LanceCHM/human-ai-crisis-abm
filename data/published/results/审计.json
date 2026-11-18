@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "teams": 200,
+  "events_recomputed": 218400,
+  "source_unchanged": true,
+  "independent_new_seed_sample": true,
+  "frozen_and_holdout_checks": "passed",
+  "single_practice_slot_and_budget": "passed",
+  "policy_choice_checks": "passed"
+}

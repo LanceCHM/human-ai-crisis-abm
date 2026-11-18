@@ -1,0 +1,110 @@
+{
+  "seed": 970064,
+  "events": 1092,
+  "rows": [
+    {
+      "ref": "t0",
+      "completion": 0.5975,
+      "arm": "common",
+      "mode": "pre"
+    },
+    {
+      "ref": "t1",
+      "completion": 0.5975,
+      "arm": "G1",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5975,
+      "arm": "G1",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t2",
+      "completion": 0.6191666666666666,
+      "arm": "G2",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5975,
+      "arm": "G2",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t3",
+      "completion": 0.6620833333333334,
+      "arm": "S3",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5975,
+      "arm": "S3",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t4",
+      "completion": 0.6645833333333333,
+      "arm": "R",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5975,
+      "arm": "R",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t5",
+      "completion": 0.6645833333333333,
+      "arm": "ALT",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5975,
+      "arm": "ALT",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t6",
+      "completion": 0.5975,
+      "arm": "G1",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t7",
+      "completion": 0.5975,
+      "arm": "G2",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t8",
+      "completion": 0.5975,
+      "arm": "S3",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t9",
+      "completion": 0.6,
+      "arm": "R",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t10",
+      "completion": 0.6,
+      "arm": "ALT",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t11",
+      "completion": 0.6620833333333334,
+      "arm": "S3",
+      "mode": "reset_command"
+    }
+  ],
+  "raw_sha256": "25ca53a090fb3306f71730606fd2a72dde23c60244b0e1ecef4aa94c5d3eac7f",
+  "snapshot_sha256": "a281650f23deb30d48fa5bfd8494afc58993de5da61dec6bb39b5371f94922dd"
+}

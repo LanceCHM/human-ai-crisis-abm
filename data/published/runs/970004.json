@@ -1,0 +1,110 @@
+{
+  "seed": 970004,
+  "events": 1092,
+  "rows": [
+    {
+      "ref": "t0",
+      "completion": 0.5208333333333334,
+      "arm": "common",
+      "mode": "pre"
+    },
+    {
+      "ref": "t1",
+      "completion": 0.5208333333333334,
+      "arm": "G1",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5208333333333334,
+      "arm": "G1",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t2",
+      "completion": 0.5941666666666666,
+      "arm": "G2",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5208333333333334,
+      "arm": "G2",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t3",
+      "completion": 0.6233333333333333,
+      "arm": "S3",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5208333333333334,
+      "arm": "S3",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t4",
+      "completion": 0.6233333333333333,
+      "arm": "R",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5208333333333334,
+      "arm": "R",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t5",
+      "completion": 0.6233333333333333,
+      "arm": "ALT",
+      "mode": "full"
+    },
+    {
+      "ref": "t0",
+      "completion": 0.5208333333333334,
+      "arm": "ALT",
+      "mode": "frozen"
+    },
+    {
+      "ref": "t6",
+      "completion": 0.5208333333333334,
+      "arm": "G1",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t7",
+      "completion": 0.5208333333333334,
+      "arm": "G2",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t8",
+      "completion": 0.5208333333333334,
+      "arm": "S3",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t9",
+      "completion": 0.5208333333333334,
+      "arm": "R",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t10",
+      "completion": 0.5208333333333334,
+      "arm": "ALT",
+      "mode": "reset_venue"
+    },
+    {
+      "ref": "t11",
+      "completion": 0.6233333333333333,
+      "arm": "S3",
+      "mode": "reset_command"
+    }
+  ],
+  "raw_sha256": "407a7b5307eaabff48a18c098176e1969d57e9e928a3ade5dbeccd9187f214e0",
+  "snapshot_sha256": "39215a04f23b8283cececc5be0df648179338b953387edb74ca45e48c374f5ae"
+}

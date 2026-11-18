@@ -1,0 +1,16 @@
+{
+  "teams": 200,
+  "seconds": 255.99725008010864,
+  "source_sha256": {
+    "analyze.py": "1d3500d5dc9644839b390c331e23fec8129112eb41a0bc5fb4e0d350a5d9347f",
+    "run.py": "4bdb33aad3ec51c783ab28769f828a18e4d7da979c54d6cdfcda954946514efb",
+    "s3_model.py": "1a2d742f096e1e6199f5255f50d7901b2638aed1b9eb049f97f4e85ef26f5f02",
+    "src\\stage2_abm\\__init__.py": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "src\\stage2_abm\\model.py": "63979400c9214c1f479a2b91161da99d96ed75adf6fde1ca0c20c356aa9cfc4e",
+    "tests\\test_controls.py": "644e5631e7452773b3ef8ea26bb3c0f921023a6c2563428e1e7fbc814dabe6e1",
+    "tests\\test_improvements.py": "3c18d3e56280197ad64c3c2cfee35b89c00d348d38447bdb78814f36b19b4e96",
+    "tests\\test_inherited.py": "0be79d3ffcf60f964ee545bab240882bc0e3b1b663f7a4cb3e8a17ef6b3e684b",
+    "tests\\test_learning_interfaces.py": "5ef147ff2734a0499e103d3cbbf5550f7f9ccacdf77264886ad6698b0e9df0ba",
+    "tests\\test_verification_correlation.py": "302de372652e4169cd1557c5b9d3625ff71772e12fa92da59a1cf86c17478a61"
+  }
+}

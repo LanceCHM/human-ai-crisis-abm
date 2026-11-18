@@ -1,0 +1,324 @@
+[
+  [
+    [
+      "Workflow stage or selection rule",
+      "G1",
+      "G2",
+      "S3",
+      "R",
+      "ALT"
+    ],
+    [
+      "1 Information acquisition and judgment"
+    ],
+    [
+      "Obtain digital information",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Read AI summaries and recommendations",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Retrieve prior experience to support role judgments",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Communicate and exchange information across roles",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "2 On-site verification and plan formulation"
+    ],
+    [
+      "Routine on-site observation and condition-triggered verification",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Arrange dedicated practical verification",
+      "○",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Target rule: always select Exit 0",
+      "○",
+      "✓",
+      "○",
+      "○",
+      "○"
+    ],
+    [
+      "Target rule: select the exit with greater judgment uncertainty",
+      "○",
+      "○",
+      "✓",
+      "○",
+      "○"
+    ],
+    [
+      "Target rule: randomly select one exit",
+      "○",
+      "○",
+      "○",
+      "✓",
+      "○"
+    ],
+    [
+      "Target rule: alternate Exit 0/1 in task order",
+      "○",
+      "○",
+      "○",
+      "○",
+      "✓"
+    ],
+    [
+      "Send dedicated verification results to the command role",
+      "○",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Form a plan from dedicated verification and compare it with AI advice",
+      "○",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Allow direct adoption of AI advice without requiring dedicated verification",
+      "✓",
+      "○",
+      "○",
+      "○",
+      "○"
+    ],
+    [
+      "3 Execution, feedback, and experience accumulation"
+    ],
+    [
+      "Select and release an evacuation plan",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Execute evacuation and generate outcomes",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Observe and monitor after plan release",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Receive action outcomes and on-site feedback",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Form and store case-based experience",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "4 Shared experimental arrangements"
+    ],
+    [
+      "Common starting point: 12 initial events without AI",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "60 training events, with learning-enabled and learning-frozen branches",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Standardized tests without AI: the same 40 held-out tasks",
+      "✓",
+      "✓",
+      "✓",
+      "✓",
+      "✓"
+    ]
+  ],
+  [
+    [
+      "Collaboration mode",
+      "Pre-test completion",
+      "Post-test completion",
+      "Learning gain (percentage points)"
+    ],
+    [
+      "G1",
+      "54.67%",
+      "54.66%",
+      "﹣0.005"
+    ],
+    [
+      "G2",
+      "54.67%",
+      "57.44%",
+      "﹢2.774"
+    ],
+    [
+      "S3",
+      "54.67%",
+      "61.40%",
+      "﹢6.732"
+    ],
+    [
+      "R",
+      "54.67%",
+      "61.34%",
+      "﹢6.670"
+    ],
+    [
+      "ALT",
+      "54.67%",
+      "61.29%",
+      "﹢6.626"
+    ]
+  ],
+  [
+    [
+      "Comparison",
+      "Difference in gains (percentage points)",
+      "Individual 95% interval",
+      "Holm-adjusted p"
+    ],
+    [
+      "G2 - G1",
+      "2.779",
+      "﹢2.402~3.137",
+      "＜0.001"
+    ],
+    [
+      "S3 - G1",
+      "6.737",
+      "﹢6.191~7.228",
+      "＜0.001"
+    ],
+    [
+      "R - G1",
+      "6.675",
+      "﹢6.199~7.126",
+      "＜0.001"
+    ],
+    [
+      "ALT - G1",
+      "6.631",
+      "﹢6.065~7.155",
+      "＜0.001"
+    ],
+    [
+      "S3 - G2",
+      "3.958",
+      "﹢3.484~4.397",
+      "＜0.001"
+    ],
+    [
+      "R - G2",
+      "3.896",
+      "﹢3.436~4.321",
+      "＜0.001"
+    ],
+    [
+      "ALT - G2",
+      "3.852",
+      "﹢3.280~4.389",
+      "＜0.001"
+    ],
+    [
+      "S3 - R",
+      "0.062",
+      "﹣0.380~0.525",
+      "1.000"
+    ],
+    [
+      "S3 - ALT",
+      "0.106",
+      "﹣0.432~0.661",
+      "1.000"
+    ],
+    [
+      "R - ALT",
+      "0.044",
+      "﹣0.422~0.539",
+      "1.000"
+    ]
+  ],
+  [
+    [
+      "Collaboration mode",
+      "Change in completion (percentage points)",
+      "95% interval",
+      "Plans changed"
+    ],
+    [
+      "G1",
+      "  0.000",
+      "  0.00~0.00",
+      "0.00%"
+    ],
+    [
+      "G2",
+      "﹣3.330",
+      "﹣3.04~3.61",
+      "14.66%"
+    ],
+    [
+      "S3",
+      "﹣6.880",
+      "﹣6.35~7.35",
+      "23.48%"
+    ]
+  ]
+]
